@@ -1,11 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:132.0) Gecko/20100101 Firefox/132.0" version="24.8.3">
   <diagram name="Página-1" id="B-bke3QCGIZsyUV_sevb">
-    <mxGraphModel dx="1140" dy="658" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2195" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Ic7_FfRGiniO8kVixbo9-1" target="Ic7_FfRGiniO8kVixbo9-68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ic7_FfRGiniO8kVixbo9-1" value="JMG_obraArt" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="180" width="180" height="150" as="geometry" />
+          <mxGeometry x="100" y="180" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Ic7_FfRGiniO8kVixbo9-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="Ic7_FfRGiniO8kVixbo9-1">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -59,8 +62,21 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-102" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="Ic7_FfRGiniO8kVixbo9-1">
+          <mxGeometry y="150" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-103" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Ic7_FfRGiniO8kVixbo9-102">
+          <mxGeometry width="30" height="30" as="geometry">
+            <mxRectangle width="30" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-104" value="id_categoria" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Ic7_FfRGiniO8kVixbo9-102">
+          <mxGeometry x="30" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Ic7_FfRGiniO8kVixbo9-33" value="JMG_artista" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="590" y="200" width="180" height="180" as="geometry" />
+          <mxGeometry x="586" y="670" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="Ic7_FfRGiniO8kVixbo9-34" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="Ic7_FfRGiniO8kVixbo9-33">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -128,7 +144,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Ic7_FfRGiniO8kVixbo9-49" value="JMG_salaMuseu" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="570" width="180" height="90" as="geometry" />
+          <mxGeometry x="100" y="750" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Ic7_FfRGiniO8kVixbo9-50" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="Ic7_FfRGiniO8kVixbo9-49">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -156,8 +172,11 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Ic7_FfRGiniO8kVixbo9-68" target="Ic7_FfRGiniO8kVixbo9-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ic7_FfRGiniO8kVixbo9-68" value="JMG_exposicio" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="100" y="400" width="180" height="120" as="geometry" />
+          <mxGeometry x="100" y="510" width="180" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Ic7_FfRGiniO8kVixbo9-69" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="Ic7_FfRGiniO8kVixbo9-68">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -198,8 +217,11 @@
             <mxRectangle width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-119" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Ic7_FfRGiniO8kVixbo9-87" target="Ic7_FfRGiniO8kVixbo9-106">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Ic7_FfRGiniO8kVixbo9-87" value="JMG_categoria" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="460" width="180" height="150" as="geometry" />
+          <mxGeometry x="586" y="180" width="180" height="90" as="geometry" />
         </mxCell>
         <mxCell id="Ic7_FfRGiniO8kVixbo9-88" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="Ic7_FfRGiniO8kVixbo9-87">
           <mxGeometry y="30" width="180" height="30" as="geometry" />
@@ -214,44 +236,100 @@
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ic7_FfRGiniO8kVixbo9-91" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="Ic7_FfRGiniO8kVixbo9-87">
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-122" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="Ic7_FfRGiniO8kVixbo9-87">
           <mxGeometry y="60" width="180" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ic7_FfRGiniO8kVixbo9-92" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Ic7_FfRGiniO8kVixbo9-91">
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-123" value="FK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Ic7_FfRGiniO8kVixbo9-122">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ic7_FfRGiniO8kVixbo9-93" value="titol" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Ic7_FfRGiniO8kVixbo9-91">
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-124" value="id_sub_categoria" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Ic7_FfRGiniO8kVixbo9-122">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ic7_FfRGiniO8kVixbo9-94" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="Ic7_FfRGiniO8kVixbo9-87">
-          <mxGeometry y="90" width="180" height="30" as="geometry" />
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Ic7_FfRGiniO8kVixbo9-2" target="Ic7_FfRGiniO8kVixbo9-88">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ic7_FfRGiniO8kVixbo9-95" value="" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Ic7_FfRGiniO8kVixbo9-94">
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-106" value="JMG_subCategoria" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;html=1;" vertex="1" parent="1">
+          <mxGeometry x="586" y="530" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-107" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="Ic7_FfRGiniO8kVixbo9-106">
+          <mxGeometry y="30" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-108" value="PK" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Ic7_FfRGiniO8kVixbo9-107">
           <mxGeometry width="30" height="30" as="geometry">
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ic7_FfRGiniO8kVixbo9-96" value="artista ( pot ser NULL)" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Ic7_FfRGiniO8kVixbo9-94">
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-109" value="id_sub_categoria" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Ic7_FfRGiniO8kVixbo9-107">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ic7_FfRGiniO8kVixbo9-97" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="Ic7_FfRGiniO8kVixbo9-87">
-          <mxGeometry y="120" width="180" height="30" as="geometry" />
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-120" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.122;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="Ic7_FfRGiniO8kVixbo9-1" target="Ic7_FfRGiniO8kVixbo9-33">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ic7_FfRGiniO8kVixbo9-98" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;editable=1;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Ic7_FfRGiniO8kVixbo9-97">
-          <mxGeometry width="30" height="30" as="geometry">
-            <mxRectangle width="30" height="30" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-121" value="&lt;div&gt;Per tal de no repetir &lt;br&gt;&lt;/div&gt;&lt;div&gt;el mateix nom de PK, he creat una nova&lt;/div&gt;&lt;div&gt;PK que servirà per identificar la PK de&lt;/div&gt;&lt;div&gt;sub categoria (id_sub_categoria)&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="790" y="525" width="240" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="Ic7_FfRGiniO8kVixbo9-99" value="data" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" vertex="1" parent="Ic7_FfRGiniO8kVixbo9-97">
-          <mxGeometry x="30" width="150" height="30" as="geometry">
-            <mxRectangle width="150" height="30" as="alternateBounds" />
-          </mxGeometry>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-125" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="650" y="270" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-126" value="0,n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="500" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-127" value="&lt;div&gt;pot&lt;/div&gt;&lt;div&gt;pertanyer &lt;br&gt;&lt;/div&gt;&lt;div&gt;a&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="610" y="365" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-128" value="&lt;div&gt;Aquesta relació ens està indicant&lt;/div&gt;&lt;div&gt;&amp;nbsp;que una categoría pot pertanyer a&lt;/div&gt;&lt;div&gt;&amp;nbsp;cap o a moltes sub categoríes, i que les &lt;br&gt;&lt;/div&gt;&lt;div&gt;subcategores. només poden &lt;br&gt;&lt;/div&gt;&lt;div&gt;pertanyer a una categoría&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="760" y="350" width="240" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-129" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-132" value="0,1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="546" y="690" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-133" value="&lt;div&gt;pertany&lt;/div&gt;&lt;div&gt;a&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="370" y="460" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-134" value="&lt;div&gt;Aquesta relació ens está&lt;/div&gt;&lt;div&gt;&amp;nbsp;indicant que&amp;nbsp;&lt;/div&gt;&lt;div&gt;una obra d&#39;art,&lt;/div&gt;&lt;div&gt;es pot conèixer o no &lt;br&gt;&lt;/div&gt;&lt;div&gt;l&#39;artista&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="436" y="410" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-136" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="196" y="358" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-137" value="0,n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="191" y="480" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-138" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="200" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-142" value="&lt;div&gt;1&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="536" y="200" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-143" value="poden formar part" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="188" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-144" value="&lt;div&gt;En aquesta relació estic suposant que una obra d&#39;art només pot formar&amp;nbsp;&lt;/div&gt;&lt;div&gt;part d&#39;una categoría, per tant la relacio es de n:1, ha que moltes &lt;br&gt;&lt;/div&gt;&lt;div&gt;obres d&#39;art poden formar part d&#39;una sola categoría, i dins&amp;nbsp;&lt;/div&gt;&lt;div&gt;d&#39;una categoría poden haver-hi moltes obres d&#39;art&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="110" width="400" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-145" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="191" y="720" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-146" value="0,n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="186" y="628" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-147" value="&lt;div&gt;En una mateixa sala de museu,&lt;/div&gt;&lt;div&gt;&amp;nbsp;es poden fer des de cap exposició&amp;nbsp;&lt;/div&gt;&lt;div&gt;fins a moltes exposicions&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-14" y="660" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-148" value="&lt;div&gt;Una obra d&#39;art, es pot exposar cap&lt;/div&gt;&lt;div&gt;o moltes vegades&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-24" y="420" width="210" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-149" value="&lt;div&gt;Exposició es una intentitat que neix de la relació &lt;br&gt;&lt;/div&gt;&lt;div&gt;entre obra d&#39;art i salaMuseu, ja que&lt;/div&gt;&lt;div&gt;es vol coneixer la data d&#39;exposició.&lt;/div&gt;&lt;div&gt;Te una clau primaria composta, per les PK&lt;/div&gt;&lt;div&gt;de les entitats &quot;pares&quot;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="515" width="280" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
