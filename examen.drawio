@@ -334,6 +334,9 @@
         <mxCell id="Ic7_FfRGiniO8kVixbo9-150" value="&lt;div&gt;He suposat que una obra d&#39;art pot ser exposada &lt;br&gt;&lt;/div&gt;&lt;div&gt;o no, per aixo la relacio (0,n) a exposicio&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-199" y="183" width="280" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="Ic7_FfRGiniO8kVixbo9-151" value="&lt;div&gt;En comptes de fer una relació&lt;/div&gt;&lt;div&gt;reflexiva, he creat una&lt;/div&gt;&lt;div&gt;entitat anomenada, sub-categoria&lt;/div&gt;&lt;div&gt;que permet la relació entre&lt;/div&gt;&lt;div&gt;categoria i sub-categoria&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="780" y="183" width="200" height="90" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
